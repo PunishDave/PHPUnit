@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ExampleTest::test":7,"UserTest::testReturnName":8},"times":{"ExampleTest::test":0.001,"ExampleTest::testAddingTwoPlusTwoResultsInFour":0.001,"FunctionTest::testAdding":0.001,"FunctionTest::testnegativeAdding":0,"UserTest::testReturnName":0.001,"UserTest::testFullNameEmpty":0,"UserTest::user_has_first_name":0}}
